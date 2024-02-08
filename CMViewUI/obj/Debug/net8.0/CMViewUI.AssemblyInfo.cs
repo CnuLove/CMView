@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMViewUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2520cb6811b6e4b595ac3cf43e62203816158ca0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMViewUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMViewUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

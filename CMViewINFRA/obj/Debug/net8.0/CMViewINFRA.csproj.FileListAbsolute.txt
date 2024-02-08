@@ -1,0 +1,12 @@
+D:\Code\Learn\Git Projects\CMViewINFRA\bin\Debug\net8.0\CMViewINFRA.deps.json
+D:\Code\Learn\Git Projects\CMViewINFRA\bin\Debug\net8.0\CMViewINFRA.dll
+D:\Code\Learn\Git Projects\CMViewINFRA\bin\Debug\net8.0\CMViewINFRA.pdb
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.AssemblyInfoInputs.cache
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.AssemblyInfo.cs
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.csproj.CoreCompileInputs.cache
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.sourcelink.json
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.dll
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\refint\CMViewINFRA.dll
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\CMViewINFRA.pdb
+D:\Code\Learn\Git Projects\CMViewINFRA\obj\Debug\net8.0\ref\CMViewINFRA.dll
